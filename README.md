@@ -9,7 +9,7 @@
 ## GoblinHead_AndroidGame
 Simpel Android Game developed in java named Goblin head. Move and Hit the goblin heads falling down with the sword, moved with built in phone Gyro sensors.
 
-<img src"readme_images/x.png" width="100" >
+<img src="readme_images/x.png" width="100" >
 
 
 ## Features
