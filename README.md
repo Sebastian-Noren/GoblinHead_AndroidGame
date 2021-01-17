@@ -6,16 +6,16 @@
 ![Forks](https://img.shields.io/github/forks/Sebastian-Noren/AESCrypto)
 ![Stars](https://img.shields.io/github/stars/Sebastian-Noren/AESCrypto)
 
-# GoblinHead_AndroidGame
+## GoblinHead_AndroidGame
 Simpel Android Game developed in java named Goblin head. Move and Hit the goblin heads falling down with the sword, moved with built in phone Gyro sensors.
 
-# Features
+## Features
 Android motion Sensor movement
 3 difficulty levels
 Sound Engine
 Custom Game Engine from scratch.
 
-# Notes
+## Notes
 First android project during studies. Need refactoring to modern standard and better practice.
 
 ## License
